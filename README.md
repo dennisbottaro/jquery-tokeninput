@@ -1,6 +1,10 @@
 
 # jQuery Tokeninput: A Tokenizing Autocomplete Text Entry
 
+## About this Fork
+This is a fork of the original abandoned jQuery TokenInput by LoopJ.  I had need for this 
+to work under iOS/iPadOS while running Safari.
+
 ## Overview
 
 Tokeninput is a jQuery plugin which allows your users to select multiple items
