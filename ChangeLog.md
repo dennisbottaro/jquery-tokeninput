@@ -1,6 +1,12 @@
 jQuery Tokeninput ChangeLog
 ===========================
 
+Version 1.7.0 (2024-03-18)
+--------------------------
+- Added Support for Safari browser running under iOS/iPadOS
+- Removed minified Build Directly
+- Remove Grunt deployment for minified version
+
 Version 1.6.0 (2011-08-07)
 --------------------------
 - Now possible to pass a function as the URL to search, allowing dynamic endpoints
